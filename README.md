@@ -3,7 +3,7 @@
 A simple and responsive Weather App built using **React** and the **OpenWeatherMap API**. This application allows users to search for any city and get real-time weather updates including temperature, weather conditions, humidity, and more.
 
 ## 🔗 Live Demo
-Hosted on **Vercel**: [Click here to view](srinjoy-s-weather-app.vercel.app
+Hosted on **Vercel**: [Click here to view](https://srinjoy-s-weather-app.vercel.app
 )
 
 
